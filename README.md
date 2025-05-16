@@ -1,4 +1,3 @@
-# profile.daveliao
 # Olá, Eu sou Dave Liao!
 
 Bem-vindo ao meu portfólio no GitHub! Sou desenvolvedor com paixão por tecnologia, automação e código limpo. Aqui, você encontrará meus projetos, ideias e experimentos. Sinta-se à vontade para explorar!
@@ -29,4 +28,4 @@ Bem-vindo ao meu portfólio no GitHub! Sou desenvolvedor com paixão por tecnologi
 * GitHub: [@daveliao840624](https://github.com/daveliao840624)
 * Email: daveliao840624@gmail.com
 
-Obrigado por visitar meu perfil! Se gostou do que viu, deixe uma ? nos repositórios! ??
+Obrigado por visitar meu perfil!
